@@ -3,7 +3,7 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "백준 알고리즘"
-    url: https://jihytt.github.io/category/Baekjoon
+    url: https://jihytt.github.io/categories/Baekjoon
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
