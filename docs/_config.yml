@@ -312,7 +312,7 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
+category_list: [ Baekjoon ]
 
 # HTML Compression
 # - http://jch.penibelst.de/
